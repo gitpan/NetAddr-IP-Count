@@ -8,7 +8,7 @@ use NetAddr::IP;
 require Exporter;
 
 @ISA = qw();
-$VERSION = '2.00';
+$VERSION = '2.01';
 
 # Preloaded methods go here.
 
